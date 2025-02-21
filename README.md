@@ -14,4 +14,4 @@ Ensure you have Python 3.7+ installed on your system.
 # Install Dependencies
 Run the following command to install the required packages:
 
-pip install -r requirements.txt
+ ```pip install -r requirements.txt```
