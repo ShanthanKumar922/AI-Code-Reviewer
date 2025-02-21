@@ -15,3 +15,9 @@ Ensure you have Python 3.7+ installed on your system.
 Run the following command to install the required packages:
 
  ```pip install -r requirements.txt```
+
+# How It Works? 
+1️⃣ Paste your Python code into the text box.
+2️⃣ Click"Review Code" and wait a few seconds.
+3️⃣ Let the AI analyze your code and generate a detailed bug report with suggested fixes.
+4️⃣ Review, Learn, and Improve your coding skills instantly! 🚀
